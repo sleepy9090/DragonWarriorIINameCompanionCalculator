@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("DragonWarriorIINameCompanionCalculator")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Utility that determines the player's companions based on the entered heroes name. The tilde (~) represents '..' and the '>' represents the arrow.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Shawn M. Crawford [sleepy]")]
 [assembly: AssemblyProduct("DragonWarriorIINameCompanionCalculator")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright ©  2019 Shawn M. Crawford [sleepy]")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

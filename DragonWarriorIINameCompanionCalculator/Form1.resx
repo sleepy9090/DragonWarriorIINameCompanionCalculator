@@ -120,4 +120,20 @@
   <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAEBAQAAEABAAoAQAAJgAAABAQEAABAAQAKAEAAE4BAAAoAAAAEAAAACAAAAABAAQAAAAAAIAA
+        AADCHgAAwh4AABAAAAAQAAAAsLz8APz8/ADscAAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAADMzMzMyIiIzMzMiIjEREzAzMiIiIiIiAjIjIiIiIiAiIAExEQAR
+        ECEgARIiIiIgECIhIiIiIiEhMxIiIhEiICIzEzMgAAIzADMTMgIAICMzMxMiAgAgIjMzEyEiIiISMzMx
+        MhERESMzMzEyESIRIzMzMTIiIiIjMzMxMyIiIjMz/4MAAPCGAADgAAAAkAAAAAgAAAAAAAAAAAAAAMAA
+        AADcDAAA2AcAANADAADQAwAA6AcAAOgHAADoBwAA7A8AACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAMIe
+        AADCHgAAEAAAABAAAACwvPwA/Pz8AOxwAAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAMzMiIiMzMzMzMzEREyIgMzIjIiIiIgIDIAAyIiIgIiAiETERABAhIDEh
+        EiIiIBAQMTMiIiIhISExMiIiESAiIDEzMyAAAgADEzMyAgAgIzMTMyICACAiMxMzISIiIhIzEzMyERER
+        IzMTMzIRIhEjMzMzMiIiIiMzMzMzIiIiMzPwfwAA+EMAAJABAAAIAAAACAAAAIAAAACwAAAAoAAAALwB
+        AAB4BwAAcAMAAHADAAB4BwAAeAcAAPgHAAD8DwAA
+</value>
+  </data>
 </root>

@@ -11,12 +11,6 @@
  *
  */
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Windows.Forms;
 
 namespace DragonWarriorIINameCompanionCalculator
@@ -41,6 +35,7 @@ namespace DragonWarriorIINameCompanionCalculator
         public Form1()
         {
             InitializeComponent();
+            textBoxName.MaxLength = 8;
         }
 
         private void buttonGenerate_Click(object sender, EventArgs e)
@@ -250,10 +245,10 @@ namespace DragonWarriorIINameCompanionCalculator
                 case ';':
                     hexValue = "70";
                     break;
-                case '~':
+                case '~': // represents '..'
                     hexValue = "75";
                     break;
-                case '>':
+                case '>': // represents the right arrow
                     hexValue = "63";
                     break;
                 case ' ':
